@@ -6,4 +6,5 @@ https://kevin-react-reviews-app.netlify.app
 
 - Inline comments in code to show basic understanding of React and my thinking.
 - Installation and use of react-icons library
--
+- Randomized profile finder using profile IDs
+- Left/Right chevron buttons to see the previous/next profiles, using the profile IDs

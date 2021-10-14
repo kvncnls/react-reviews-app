@@ -4,7 +4,6 @@ https://kevin-react-reviews-app.netlify.app
 
 # Goals of this project:
 
-- Inline comments in code to show basic understanding of React and my thinking.
 - Installation and use of react-icons library
-- Randomized profile finder using profile IDs
+- Basic use of Math.random, Math.floor to get a random index number in an array.
 - Left/Right chevron buttons to see the previous/next profiles, using the profile IDs
